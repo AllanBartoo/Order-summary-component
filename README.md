@@ -2,12 +2,6 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
 ## The challenge
 
 Your users should be able to:
@@ -16,7 +10,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/AllanBartoo/Order-summary-component
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)and fonts.
 
 ## My process
