@@ -11,7 +11,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: https://github.com/AllanBartoo/Order-summary-component
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)and fonts.
+- Live Site URL: https://allanbartoo.github.io/Order-summary-component
 
 ## My process
 
